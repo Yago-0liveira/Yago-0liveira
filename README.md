@@ -1,5 +1,5 @@
 ### Hey! Eu sou o Yago Oliveira 
-Minhas Estatísticas
+Estatísticas
 <div align="center">
   <a href="https://github.com/luan-pinheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yago-0liveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
